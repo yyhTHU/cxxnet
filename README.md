@@ -3,6 +3,10 @@ cxxnet
 
 CXXNET is a fast, concise, distributed deep learning framework.
 
+Note: We changed OFFICIAL repo of CXXNET to [Distributed (Deep) Machine Learning Common](https://github.com/dmlc)
+New OFFICIAL address is: [https://github.com/dmlc/cxxnet](https://github.com/dmlc/cxxnet)
+This is NOT the OFFICIAL repo.
+
 Contributors: https://github.com/antinucleon/cxxnet/graphs/contributors
 
 * [Documentation](doc)
